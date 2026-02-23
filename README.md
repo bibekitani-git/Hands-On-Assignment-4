@@ -10,3 +10,14 @@ The model uses the [Kaggle Credit Card Fraud Detection dataset](https://www.kagg
 1. Clone this repository:
    ```bash
    git clone https://github.com/bibekitani-git/Hands-On-Assignment-4.git
+
+   Install dependencies:
+
+Bash
+pip install -r requirements.txt
+Place creditcard.csv in the root directory.
+
+Run the script:
+
+Bash
+python3 fraud_detection.py
