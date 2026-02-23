@@ -1,0 +1,6 @@
+Project: Credit Card Fraud Detection using PyOD AutoEncoder
+Files Included:
+1. fraud_detection.py: Main Python script for training and evaluation.
+2. requirements.txt: List of necessary libraries (pyod, pandas, scikit-learn).
+3. README.md: Instructions for running the experiment.
+4. Experiment_Output.docx: Screenshots of the terminal output and error distribution plot.
