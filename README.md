@@ -9,4 +9,4 @@ The model uses the [Kaggle Credit Card Fraud Detection dataset](https://www.kagg
 ## Installation & Usage
 1. Clone this repository:
    ```bash
-   git clone <your-github-url-here>
+   git clone https://github.com/bibekitani-git/Hands-On-Assignment-4.git
